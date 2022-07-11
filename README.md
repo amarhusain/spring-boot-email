@@ -49,4 +49,6 @@ Step 3: Configure SMTP server detail in Application.properties.
         spring.mail.properties.mail.smtp.socketFactory.port = 465
         spring.mail.properties.mail.smtp.socketFactory.class = javax.net.ssl.SSLSocketFactory
 
+For Demo use the below link
 
+https://madarasa.com.in/spring-boot/spring-boot-email
